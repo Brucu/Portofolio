@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.typed-cursor {
+    color: #F7AB0A;
+    
+}
+
+body {
+    background-color: rgb(37, 37, 37);
+    font-size: 50px;
+}
+
+span {
+    color: #F7AB0A;
+}
+
+html {
+    scroll-behavior: smooth;
+}
